@@ -9,7 +9,6 @@ public class TwoSum {
 					return new int[] {i,j};
 				}
 			}
-
 		}
-		return arr;
-	}}
+		return arr;}
+	}
